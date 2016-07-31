@@ -5,4 +5,4 @@ vagrant destroy
 
 vagrant up
 vagrant halt
-vagrant package --output centos67-dev.box
+vagrant package --output centos7-dev.box
